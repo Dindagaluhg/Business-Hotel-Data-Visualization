@@ -1,5 +1,5 @@
-# Rakamin Mini Project
-## Investigate Business Hotel using Data Visualization
+## Rakamin Mini Project
+# Investigate Business Hotel using Data Visualization
 
 ### **Objective**
 The primary goal of this project is to delve into customer behavior concerning hotel reservations and to ascertain its correlation with the rate of hotel booking cancellations.
